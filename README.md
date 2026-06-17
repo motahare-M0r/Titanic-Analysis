@@ -275,7 +275,7 @@ This project is licensed under the **MIT** License.
 
 ## ✍️ Author
 
-[Your Name] - [Your Email] - [Your GitHub Link]
+Motahare Mortezaiee - motahareh.mortezaieegmail.com - https://github.com/motahare-M0r
 
 ---
 
